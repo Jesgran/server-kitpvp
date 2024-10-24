@@ -1,0 +1,22 @@
+# To learn more about customizing the Scoreboard, please
+# visit the scoreboard.yml documentation on GitHub:
+# https://github.com/cervinakuy/KitPvP/wiki/scoreboard.yml
+
+Scoreboard:
+  General:
+    Title: '&0    &r&d&lWebCraft    &0'
+    Enabled: true
+  Lines:
+  - ' '
+  - '&e&lStatistiche'
+  - '&aKill: &f%kills%'
+  - '&aMorti: &f%deaths%'
+  - '&aK/D Ratio: &f%kd%'
+  - ' '
+  - '&aLivello: &f%level%'
+  - '&aExp: &f%xp%/%max_xp%'
+  - ' '
+  - '&c&lKill Streak'
+  - '&f%streak% Kills'
+  - ' '
+  - '&ejes.is-a.dev'
